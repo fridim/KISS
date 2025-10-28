@@ -62,4 +62,8 @@
         <item name="android:textColor">@android:color/black</item>
     </style>
 
+    <style name="CustomPopupMenu" parent="@android:style/Widget.PopupMenu">
+        <item name="android:popupBackground">@drawable/popup_background</item>
+    </style>
+
 </resources>
