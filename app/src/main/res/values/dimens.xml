@@ -60,7 +60,7 @@
 
     <dimen name="bar_height">40dp</dimen>
     <dimen name="large_bar_height">58dp</dimen>
-    <dimen name="search_corner_radius">28dp</dimen>
+    <dimen name="search_corner_radius">20dp</dimen>
     <dimen name="list_corner_radius">20dp</dimen>
     <dimen name="list_margin_horizontal">10dp</dimen>
     <dimen name="list_margin_horizontal_large">40dp</dimen>
