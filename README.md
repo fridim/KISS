@@ -22,5 +22,5 @@ Join the [beta program](https://play.google.com/apps/testing/fr.neamar.kiss/) to
 
 Public Telegram chat: https://t.me/joinchat/_eDeAIQJU1FlNjM0
 
-|![Less interface](https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Search anything](https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![Customize everything](https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |![Settings](https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
-|:-------------------:|:------------------------:|:-----------------:|:-----------------:|
+This fork is a version of KISS with style and cosmetic changes to work well on e-ink screens
+<img width="480" height="800" alt="Screenshot_20251028-222021" src="https://github.com/user-attachments/assets/a2d3fc31-99c9-4d96-a71c-d140eef079a0" />
