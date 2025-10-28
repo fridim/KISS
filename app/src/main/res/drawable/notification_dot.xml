@@ -9,8 +9,8 @@
         </shape>
     </item>
     <item android:gravity="center">
-        <shape android:shape="oval">
-            <solid android:color="#666666" />
+        <shape android:shape="rectangle">
+            <solid android:color="#000000" />
             <size
                 android:width="14dp"
                 android:height="14dp" />

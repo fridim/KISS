@@ -14,12 +14,12 @@
         <item name="android:windowShowWallpaper">true</item>
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:textColor">@android:color/black</item>
-        <item name="android:textColorSecondary">#d3d3d3</item>
-        <item name="android:textColorTertiary">#d3d3d3</item>
+        <item name="android:textColorSecondary">@android:color/black</item>
+        <item name="android:textColorTertiary">@android:color/black</item>
 
         <item name="searchColor">@android:color/black</item>
         <item name="resultColor">@android:color/black</item>
-        <item name="resultShadowColor">#3f000000</item>
+        <item name="resultShadowColor">@android:color/transparent</item>
         <item name="listBackgroundColor">@android:color/white</item>
         <item name="searchBackgroundColor">@android:color/white</item>
         <item name="searchBackgroundOutline">@android:color/transparent</item>
@@ -78,12 +78,12 @@
     </style>
 
     <style name="AppThemeSemiTransparent" parent="AppThemeLight">
-        <item name="android:textColorSecondary">@color/kiss_text_on_semi_light</item>
-        <item name="resultShadowColor">@color/kiss_background_light_transparent</item>
-        <item name="dividerDrawable">@null</item>
-        <item name="listBackgroundColor">@color/kiss_background_light_transparent</item>
-        <item name="searchBackgroundColor">@color/kiss_background_light_transparent</item>
-        <item name="textShadowRadius">3</item>
+        <item name="android:textColorSecondary">@android:color/black</item>
+        <item name="resultShadowColor">@android:color/transparent</item>
+        <item name="dividerDrawable">@drawable/list_separator_light</item>
+        <item name="listBackgroundColor">@android:color/white</item>
+        <item name="searchBackgroundColor">@android:color/white</item>
+        <item name="textShadowRadius">0</item>
     </style>
 
     <style name="AppThemeSemiTransparentDark" parent="AppThemeDark">
