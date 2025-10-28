@@ -10,6 +10,9 @@
         android:layout_height="wrap_content"
         android:autofillHints="application,name"
         android:inputType="textAutoCorrect"
-        tools:ignore="LabelFor" />
+        tools:ignore="LabelFor"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black" />
 
 </LinearLayout>

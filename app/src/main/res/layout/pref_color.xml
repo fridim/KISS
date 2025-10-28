@@ -21,7 +21,9 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="@string/color_transparent_dark"
-            android:textColor="?android:attr/textColorSecondary"/>
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
 
         <Button
             android:id="@+id/colorTransparentWhite"
@@ -29,7 +31,9 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="@string/color_transparent_white"
-            android:textColor="?android:attr/textColorSecondary"/>
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
 
         <Button
             android:id="@+id/colorTransparent"
@@ -37,7 +41,9 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="@string/color_transparent"
-            android:textColor="?android:attr/textColorSecondary" />
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/colorSystem"
@@ -45,7 +51,9 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="@string/color_system"
-            android:textColor="?android:attr/textColorSecondary" />
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
 
     </LinearLayout>
 </ScrollView>

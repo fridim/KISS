@@ -72,5 +72,5 @@
     <dimen name="favorite_height">58dp</dimen>
     <dimen name="large_favorite_height">68dp</dimen>
 
-    <dimen name="popup_title">12sp</dimen>
+    <dimen name="popup_title">24sp</dimen>
 </resources>

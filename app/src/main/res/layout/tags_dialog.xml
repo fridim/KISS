@@ -10,5 +10,8 @@
         android:hint="@string/tags_add_title"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
-        android:inputType="text" />
+        android:inputType="text"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black" />
 </LinearLayout>
