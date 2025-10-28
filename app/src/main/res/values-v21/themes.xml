@@ -10,6 +10,9 @@
         </item>
         <item name="android:alertDialogTheme">@android:style/Theme.Material.Light.Dialog.Alert
         </item>
+        <item name="android:actionMenuTextColor">@android:color/black</item>
+        <item name="android:textAppearanceLargePopupMenu">@style/LargeMenuText</item>
+        <item name="android:textAppearanceSmallPopupMenu">@style/LargeMenuText</item>
         <item name="textShadowRadius">0</item>
     </style>
 
@@ -20,6 +23,9 @@
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="appSelectableItemBackground">?android:attr/selectableItemBackgroundBorderless
         </item>
+        <item name="android:actionMenuTextColor">@android:color/black</item>
+        <item name="android:textAppearanceLargePopupMenu">@style/LargeMenuText</item>
+        <item name="android:textAppearanceSmallPopupMenu">@style/LargeMenuText</item>
         <item name="textShadowRadius">0</item>
     </style>
 

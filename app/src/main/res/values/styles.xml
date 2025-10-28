@@ -44,4 +44,10 @@
         <item name="android:layout_marginBottom">@dimen/icon_margin_bottom</item>
     </style>
 
+    <style name="LargeMenuText" parent="android:TextAppearance.DeviceDefault.Widget.PopupMenu.Large">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
 </resources>
