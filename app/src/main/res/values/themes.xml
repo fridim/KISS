@@ -70,11 +70,11 @@
     </style>
 
     <style name="AppThemeTransparent" parent="AppThemeLight">
-        <item name="resultColor">@color/kiss_text_on_light</item>
-        <item name="resultShadowColor">@android:color/black</item>
-        <item name="listBackgroundColor">@android:color/transparent</item>
-        <item name="dividerDrawable">@null</item>
-        <item name="textShadowRadius">3</item>
+        <item name="resultColor">@android:color/black</item>
+        <item name="resultShadowColor">@android:color/transparent</item>
+        <item name="listBackgroundColor">@android:color/white</item>
+        <item name="dividerDrawable">@drawable/list_separator_light</item>
+        <item name="textShadowRadius">0</item>
     </style>
 
     <style name="AppThemeSemiTransparent" parent="AppThemeLight">
@@ -87,18 +87,18 @@
     </style>
 
     <style name="AppThemeSemiTransparentDark" parent="AppThemeDark">
-        <item name="resultColor">@color/kiss_text_on_semi_dark</item>
-        <item name="android:textColorSecondary">@color/kiss_text_on_dark</item>
-        <item name="dividerDrawable">@null</item>
-        <item name="listBackgroundColor">@color/kiss_background_dark_transparent</item>
-        <item name="searchBackgroundColor">@color/kiss_background_dark_transparent</item>
-        <item name="textShadowRadius">3</item>
+        <item name="resultColor">@android:color/black</item>
+        <item name="android:textColorSecondary">@android:color/black</item>
+        <item name="dividerDrawable">@drawable/list_separator_light</item>
+        <item name="listBackgroundColor">@android:color/white</item>
+        <item name="searchBackgroundColor">@android:color/white</item>
+        <item name="textShadowRadius">0</item>
     </style>
 
     <style name="AppThemeTransparentDark" parent="AppThemeDark">
-        <item name="listBackgroundColor">@android:color/transparent</item>
-        <item name="dividerDrawable">@null</item>
-        <item name="textShadowRadius">3</item>
+        <item name="listBackgroundColor">@android:color/white</item>
+        <item name="dividerDrawable">@drawable/list_separator_light</item>
+        <item name="textShadowRadius">0</item>
     </style>
 
     <style name="SettingTheme" parent="AppThemeLight">
@@ -115,10 +115,10 @@
     </style>
 
     <style name="OverlayShadowDisabled">
-        <item name="textShadowRadius">30</item>
+        <item name="textShadowRadius">0</item>
     </style>
     <style name="OverlayShadowEnabled">
-        <item name="textShadowRadius">3</item>
+        <item name="textShadowRadius">0</item>
     </style>
 
     <style name="OverlaySeparatorDisabled">

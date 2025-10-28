@@ -38,10 +38,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:shadowColor="?attr/resultShadowColor"
-                android:shadowDx="1"
-                android:shadowDy="2"
-                android:shadowRadius="3"
+                android:shadowColor="@android:color/transparent"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="0"
                 android:text="@string/ui_empty_1"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="?attr/resultColor" />
@@ -49,10 +49,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:shadowColor="?attr/resultShadowColor"
-                android:shadowDx="1"
-                android:shadowDy="2"
-                android:shadowRadius="3"
+                android:shadowColor="@android:color/transparent"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="0"
                 android:text="@string/ui_empty_1_sub"
                 android:textColor="?android:attr/textColorTertiary" />
         </LinearLayout>
@@ -88,10 +88,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:shadowColor="?attr/resultShadowColor"
-                android:shadowDx="1"
-                android:shadowDy="2"
-                android:shadowRadius="3"
+                android:shadowColor="@android:color/transparent"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="0"
                 android:text="@string/ui_empty_2"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="?attr/resultColor" />
@@ -99,10 +99,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:shadowColor="?attr/resultShadowColor"
-                android:shadowDx="1"
-                android:shadowDy="2"
-                android:shadowRadius="3"
+                android:shadowColor="@android:color/transparent"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="0"
                 android:text="@string/ui_empty_2_sub"
                 android:textColor="?android:attr/textColorTertiary" />
         </LinearLayout>
@@ -138,10 +138,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:shadowColor="?attr/resultShadowColor"
-                android:shadowDx="1"
-                android:shadowDy="2"
-                android:shadowRadius="3"
+                android:shadowColor="@android:color/transparent"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="0"
                 android:text="@string/ui_empty_3"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="?attr/resultColor" />
@@ -149,10 +149,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:shadowColor="?attr/resultShadowColor"
-                android:shadowDx="1"
-                android:shadowDy="2"
-                android:shadowRadius="3"
+                android:shadowColor="@android:color/transparent"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="0"
                 android:text="@string/ui_empty_3_sub"
                 android:textColor="?android:attr/textColorTertiary" />
         </LinearLayout>
