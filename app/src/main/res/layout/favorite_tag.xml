@@ -29,8 +29,9 @@
         android:gravity="center"
         android:textIsSelectable="false"
         android:textAlignment="center"
-        android:textColor="@color/kiss_green"
-        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:textSize="28sp"
+        android:textStyle="bold"
         tools:text="g" />
 
 </FrameLayout>

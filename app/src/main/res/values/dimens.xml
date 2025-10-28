@@ -68,9 +68,9 @@
     <dimen name="launcher_button_width">45dp</dimen>
     <dimen name="launcher_button_padding">10dp</dimen>
 
-    <dimen name="favorite_padding">5dp</dimen>
-    <dimen name="favorite_height">58dp</dimen>
-    <dimen name="large_favorite_height">68dp</dimen>
+    <dimen name="favorite_padding">8dp</dimen>
+    <dimen name="favorite_height">78dp</dimen>
+    <dimen name="large_favorite_height">88dp</dimen>
 
     <dimen name="popup_title">24sp</dimen>
 </resources>
