@@ -23,4 +23,9 @@ Join the [beta program](https://play.google.com/apps/testing/fr.neamar.kiss/) to
 Public Telegram chat: https://t.me/joinchat/_eDeAIQJU1FlNjM0
 
 This fork is a version of KISS with style and cosmetic changes to work well on e-ink screens
+
+### Screenshots
+
+<img width="480" height="800" alt="Screenshot_20251028-233457" src="https://github.com/user-attachments/assets/cba05236-e6a2-493b-9a15-9aa48d7db87f" />
+
 <img width="480" height="800" alt="Screenshot_20251028-222021" src="https://github.com/user-attachments/assets/a2d3fc31-99c9-4d96-a71c-d140eef079a0" />
