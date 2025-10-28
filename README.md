@@ -29,3 +29,6 @@ This fork is a version of KISS with style and cosmetic changes to work well on e
 <img width="480" height="800" alt="Screenshot_20251028-233457" src="https://github.com/user-attachments/assets/cba05236-e6a2-493b-9a15-9aa48d7db87f" />
 
 <img width="480" height="800" alt="Screenshot_20251028-222021" src="https://github.com/user-attachments/assets/a2d3fc31-99c9-4d96-a71c-d140eef079a0" />
+
+<img width="480" height="800" alt="Editing a result line, or a favorite" src="https://github.com/user-attachments/assets/89016559-c7cc-4f81-80ef-334b8a38b208" />
+
